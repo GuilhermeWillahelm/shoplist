@@ -4,5 +4,5 @@ import { RegisterComponent } from './user-area/register/register.component';
 
 export const routes: Routes = [
     {path: 'app-login', component: LoginComponent},
-    {path: 'appRegister', component: RegisterComponent}
+    {path: 'app-register', component: RegisterComponent}
 ];
